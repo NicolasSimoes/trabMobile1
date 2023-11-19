@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682811183088",
+    "project_id": "trqabmobile",
+    "storage_bucket": "trqabmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682811183088:android:39fc462b0a2085906bd735",
+        "android_client_info": {
+          "package_name": "com.example.pet_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbl2jbRKkuMmbwJmyA5ike9hLHMql0ieg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
