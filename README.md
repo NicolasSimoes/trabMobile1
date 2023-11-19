@@ -1,16 +1,12 @@
-# pet_shop
+App Pet Shop
 
-A new Flutter project.
+Projeto flutter da Disciplina Dev.Plataformas Movéis
+##
+Projeto inicia com 2 telas sendo uma a tela inicial e a home page principal
+No "css" foram utilizados imagens e carrosséis
+Em breve vou implementar banco de dados
+##
+Para rodar o projeto utiliza os seguintes comandos no terminal root
+"flutter clean"
+"flutter pub get"
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
